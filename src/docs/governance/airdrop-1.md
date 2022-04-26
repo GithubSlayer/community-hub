@@ -99,7 +99,7 @@ These addresses may also align with Optimism’s goal to build sustainable fundi
 Active users of dapps on Ethereum are critical to ecosystem growth. Many of these addresses have started bridging to other chains due to high fees, and we want to help retain them in the Ethereum ecosystem while rewarding their curiosity and exploration. Optimism’s airdrop is also calibrated to reward loyalty to Ethereum, so users who have abandoned Ethereum entirely would not receive an airdrop.
 
 *Criterion: Address bridged to another chain, but still made an app transaction on Ethereum in each month after they bridged, and transacted at an average rate of at least 2 per week since then (top 60% of matching addresses).*
-- *Bridges included top L1s by TVL: Terra, BSC, Fantom, Avalanche, Solana, Polygon; and general-purpose L2s: Arbtirum, Optimism, Metis, Boba.*
+- *Bridges included top L1s by TVL: Terra, BSC, Fantom, Avalanche, Solana, Polygon; and general-purpose L2s: Arbitrum, Optimism, Metis, Boba.*
 - *To ensure that we gave a long enough period to sample activity, addresses had to have bridged away from Ethereum at least 90 days before the snapshot.*
 
 ### Overlap Bonus
